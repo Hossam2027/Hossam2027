@@ -65,7 +65,7 @@ I enjoy solving technical problems, learning new technologies, and building real
 A full-stack web application that connects customers with professional service providers such as carpenters, plumbers, and other home-service professionals.
 
 **🌐 Live Application**
-- [Ecommerce](https://hossamangular.runasp.net/home)
+- [E-commerce](https://hossamangular.runasp.net/home)
 - [Faltrni](https://faltrni.runasp.net/home)
 
 **💻 Source Code**
